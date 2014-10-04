@@ -1,0 +1,176 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "name": "Chapitre1",
+        "zoom1": 15,
+        "zoom2": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         6.137841,46.227416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>1. </span>La maison et la passerelle de la Paix",
+        "name": "Chapitre2",
+        "zoom1": 17,
+        "zoom2": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.14448,46.221797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>2. </span>L'immeuble administratif Avenue de France",
+        "name": "Chapitre3",
+        "zoom1": 18,
+        "zoom2": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        6.140087, 46.222028
+        ]
+      }
+    }
+    ,
+
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>3. </span>Le Centre de conférences de l’OMPI",
+        "name": "Chapitre4",
+        "zoom1": 18,
+        "zoom2": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+     6.136111, 46.221369
+        ]
+      }
+    }
+     ,
+
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>4. </span>Le siège futuriste de Japan Tobacco International",
+        "name": "Chapitre5",
+        "zoom1": 17,
+        "zoom2": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         6.145931,46.222502
+        ]
+      }
+    }
+
+    ,
+
+
+      {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>5. </span>200 millions pour la rénovation de l'OIT",
+        "name": "Chapitre6",        "zoom1": 17,
+        "zoom2": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         6.134245,46.229182
+        ]
+      }
+    },
+
+
+      {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>6. </span>Un nouveau siège pour la FICR",
+        "name": "Chapitre7",        "zoom1": 16,
+        "zoom2": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.125506,46.221751
+        ]
+      }
+    }
+
+
+    ,
+
+
+      {
+       "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>7. </span>L'OMS pousse les murs",
+        "name": "Chapitre8",        "zoom1": 17,
+        "zoom2": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.133906,46.232616
+        ]
+      }
+    },
+
+      {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>9. </span>Un Campus Santé à côté du Centre Œcuménique",
+        "name": "Chapitre9",        "zoom1": 16,
+        "zoom2": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           6.125996,46.229833
+        ]
+      }
+
+
+
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>9. </span>La Tour des Feuillantines et sa vingtaine d'étages",
+        "name": "Chapitre10",        "zoom1": 17,
+        "zoom2": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.136799,46.223416
+        ]
+      }
+    }
+
+
+
+
+
+  ]
+  
+}
+
